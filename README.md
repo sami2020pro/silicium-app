@@ -1,12 +1,10 @@
 # silicium app
 Silicium Mobile App
 
-<b>For what platforms can you build this app :question:</b> 
-
+<b>For what platforms can you build this app :question:</b><br />
 You can build this app for all platforms supported by **Ionic**
 
-<b>What platforms has this app been launched for so far :question:</b>
-
+<b>What platforms has this app been launched for so far :question:</b><br />
 Note the table below
 
 | Platform        | Build           | Test            |
