@@ -14,6 +14,8 @@ Note the table below
 | Android         | Yes             | Yes             |
 | iOS             | No              | No              |
 
+<br />
+
 > **Note:**
 > 
 > This app is made by Silicium itself and no one else played a role.
