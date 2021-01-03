@@ -9,6 +9,9 @@ Silicium Mobile App
 
 <b>What platforms has this app been launched for so far :question:</b>
 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) > **Note**
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) > This app is made by Silicium itself and no one else played a role.
+
 # Android
 empty 
 
