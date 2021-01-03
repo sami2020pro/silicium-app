@@ -1,9 +1,9 @@
 # silicium app
 Silicium Mobile App
 
-<b>For what platforms can you build this app :question:<b> 
+<b>For what platforms can you build this app :question:</b> 
 
-You can build this app for all platforms supported by Ionic
+You can build this app for all platforms supported by @@Ionic@@
 
 <b>What platforms has this app been launched for so far :question:</b>
 
