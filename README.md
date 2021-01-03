@@ -27,4 +27,9 @@ empty
 # How to download the app :question:
 You can use `bin` folder in **GitHub** or use **Telegram Channel** for download.
 
+# How to build app :question:
+
 # Contributing
+
+
+# Issues
