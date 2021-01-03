@@ -9,7 +9,7 @@ Silicium Mobile App
 
 <b>What platforms has this app been launched for so far :question:</b>
 
-> - !**Note**
+> @@**Note**@@
 > This app is made by Silicium itself and no one else played a role.
 
 # Android
